@@ -4,7 +4,9 @@
 //}
 package org.javaOOPs1;
 
-public class Main {
+import java.lang.runtime.ObjectMethods;
+
+public class Main extends Object {
     public Main() {
     }
 
