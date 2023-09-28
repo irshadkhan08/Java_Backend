@@ -40,7 +40,6 @@ public class AggregatorService {
 //                result.add(0,f.get());
 
             }
-
         }
 //        executorService.shutdown();
         return result;
